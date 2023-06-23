@@ -7,3 +7,6 @@ class Queves {
 
 public:
 	Queves() {
+		FRONT = -1;
+		REAR = -1;
+	}
