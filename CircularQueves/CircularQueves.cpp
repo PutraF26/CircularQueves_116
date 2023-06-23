@@ -22,3 +22,8 @@ public:
 			cout << "\nQueve overflow\n";
 			return;
 	}
+		//Cek apakah antrian kosong
+		if (FRONT == -1) {
+			cout << " Queve Underflow\n";
+			return;
+		}
