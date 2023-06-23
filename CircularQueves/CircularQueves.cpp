@@ -27,3 +27,4 @@ public:
 			cout << " Queve Underflow\n";
 			return;
 		}
+		cout << "\nThe element deleted from the queve is: " << queve_array[FRONT] << "\M";
