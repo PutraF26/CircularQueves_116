@@ -52,3 +52,5 @@ public:
 			cout << "Queve is empty\n";
 			return;
 		}
+
+		cout << "\nElements in the queve are..\n";
